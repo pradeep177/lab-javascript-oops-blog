@@ -89,7 +89,7 @@ nav ul a {
 }
 
 #image{
-	margin-top: 30px;
+	margin-top: 55px;
 }
 .body-div2 {
 	display: flex;
@@ -131,7 +131,7 @@ div#popupContact {
 	flex-direction: column;
 	position: absolute;
 	left: 45%;
-	top: 17%;
+	top: 20%;
 	margin-left: -400px;
 }
 
@@ -215,4 +215,5 @@ text-align: center;
 background: #6C63FF;
 border-radius: 4px;
 color: #FFFFFF;
+cursor: pointer;
 }
